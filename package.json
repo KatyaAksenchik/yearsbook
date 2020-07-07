@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "vue": "^2.5.16",
-    "electron": "^2.0.4"
+    "electron": "^7.2.4"
   },
   "devDependencies": {
     "ajv": "^6.5.0",
